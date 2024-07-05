@@ -6,4 +6,5 @@ Checkout here Movie Search Application Live : https://movieappbysanskar.web.app/
 
 Tech Stack Utilized:
 Frontend : HTML, CSS, Bootstrap , JavaScript, React.js
+
 Deployment on : Firebase
