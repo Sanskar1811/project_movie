@@ -1,29 +1,9 @@
-
-
+Developed exciting Movie Search Application in React using OMDb API.
+This app allows users to explore a wide range of movies, from Marvels, superheroes to action flicks and films in multiple languages like English, Marathi, Hindi and so on.
+Also Implement detail section to get more information about the movie. You can search the movie which you like and click on Add to Favorites button to watch later.
 
 Checkout here Movie Search Application Live : https://movieappbysanskar.web.app/
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-
+Tech Stack Utilized:
+Frontend : HTML, CSS, Bootstrap , JavaScript, React.js
+Deployment on : Firebase
