@@ -1,4 +1,7 @@
-Checkout here Movie Search App Project Live : https://movieappbysanskar.web.app/
+
+
+
+Checkout here Movie Search Application Live : https://movieappbysanskar.web.app/
 
 # Getting Started with Create React App
 
