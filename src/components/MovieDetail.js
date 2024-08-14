@@ -15,8 +15,8 @@ function MovieDetail() {
   return (
     <div className="container my-3">
       {movie ? (
-        <div className="card">
-          <img src={movie.Poster} className="card-img-top" alt={movie.Title} />
+        <div className="card d-flex flex-row">
+          <img src={movie.Poster} className="card-img-left" alt={movie.Title} style={{ width: '18rem' }} />
           <div className="card-body">
             <h2 className="card-title">{movie.Title}</h2>
             <p className="card-text"><strong>Year:</strong> {movie.Year}</p>
